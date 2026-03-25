@@ -48,6 +48,3 @@ The analysis shows that profitability varies across countries and years, meaning
 
 This type of analysis helps identify the most profitable areas of the business and supports strategic decision making.
 
----
-
-## Repository Structure
